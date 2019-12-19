@@ -4,7 +4,7 @@
 	"Parameters": {
 		"UserKeys": {
 			"Type": "AWS::EC2::KeyPair::KeyName",
-			"Description": "SSH PEM key name."
+			"Description": "SSH PEM key name"
 		},
 		"AmiID": {
 			"Type": "String",
