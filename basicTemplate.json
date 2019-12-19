@@ -34,7 +34,7 @@
 			"Type": "AWS::EC2::SecurityGroup",
 			"Properties": {
 				"GroupDescription": "Security group for our cloudbreak instance.",
-				"VpcId": "vpc-d1a0c0ab",
+				"VpcId": "vpc-4f348435",
 				"SecurityGroupIngress": [{
 					"IpProtocol": "tcp",
 					"FromPort": "22",
